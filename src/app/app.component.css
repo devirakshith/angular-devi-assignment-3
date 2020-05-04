@@ -1,3 +1,17 @@
-p {
-  font-family: Lato;
+
+div {
+	font-size: xx-large;
+	flex: 1;
+}
+a {
+	align-content: left;
+	font-size: larger;
+	text-decoration: underline;
+	margin-block: 1;
+}
+
+p{
+	text-align: center;
+	font-weight: bold;
+	color: white;
 }
